@@ -1,0 +1,14 @@
+*{ 
+  margin:0px;
+  padding:0px;
+
+}
+
+.nav-bar-link{
+  color: #cbbde2;
+  text-decoration: none;
+}
+
+.nav-bar-link:hover{
+  color: white;
+}
